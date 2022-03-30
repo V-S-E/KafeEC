@@ -1,0 +1,2 @@
+<con>Data source = (LocalDB)\MsSqlLocalDB; AttachDBFileName =E:\ИС-16\4_Курс\Мой диплом\База\k.mdf; Integrated Security = True;Connect Timeout=30</con>
+<path_o></path_o>
